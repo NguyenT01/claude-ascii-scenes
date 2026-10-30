@@ -1,0 +1,6 @@
+{
+  "name": "ascii-scenes",
+  "version": "0.1.0",
+  "description": "Animated ASCII scenes (cat, mouse, chicken, cow, bot, sea, mountain, forest, traffic, koi, night, snow) in a band above the prompt.",
+  "types": "./types/index.d.ts"
+}

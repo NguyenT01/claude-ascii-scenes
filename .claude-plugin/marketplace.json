@@ -1,0 +1,5 @@
+{
+  "name": "ascii-scenes",
+  "owner": { "name": "NguyenT01" },
+  "plugins": [{ "name": "ascii-scenes", "source": "./" }]
+}
